@@ -1,0 +1,203 @@
+* Overview 
+
+Look at what could be completed to make a suitable game over the weekend. 
+
+https://gaming.mozillalabs.com/prizes
+
+
+Game On 2010 is Mozilla Labs' first international gaming competition. Game On is all about games built, delivered and played on the open Web and the browser.
+
+We invite developers of all experience levels to participate in creating awesome games for the open Web. And we have some fun surprises in store between now and January 11, 2011 when the contest wraps.
+
+
+* HTML5 Core Technology 
+
+What could be supported with the current tech?  
+
+Review the examples noted in the 10k and 1k challenges. 
+
+* Analysis
+
+* Core 
+
+** Create the core elements to handle arrow movement
+
+* Games 
+
+What games were present in the past that could be emulated:
+
+How could these be extended to allow for a business plan?
+
+** Physics 
+
+Scorched earth. 
+
+
+** Towers
+
+** 2d Shooters 
+
+Look at something like 
+
+** Board Games 
+
+** Verticle shooters 
+
+** Atari Games 
+
+http://www.2600online.com/
+
+** Classic DOS Games 
+
+http://hardforum.com/showthread.php?t=1531945
+
+** Port Games 
+
+Password:
+2Pong                          @0.6            games/2Pong
+54321                          @1.0.2001.11.16 games/54321
+CrimsonFields                  @0.5.3          games/CrimsonFields
+Gomoku                         @1.2.6          games/Gomoku
+Gridlock                       @1.10           games/Gridlock
+PCLauncher                     @0.0.2-73353    games/PCLauncher
+PlasmaClient                   @0.0.2-347      games/PlasmaClient
+SDLInvaders                    @0.8.0          games/SDLInvaders
+abgx360                        @1.0.1          games/abgx360
+advancemenu                    @2.5.0          games/advancemenu
+alienarena                     @7.45-20100726  games/alienarena
+alienarena-data                @7.45-20100726  games/alienarena-data
+alienblaster                   @1.1.0          games/alienblaster
+angband                        @3.0.6          games/angband
+aop                            @0.6            games/aop
+atanks                         @3.1            games/atanks
+awemud                         @0.22           games/awemud
+barrage                        @1.0.2          games/barrage
+bastet                         @0.41           games/bastet
+blobwars                       @1.17           games/blobwars
+bluemoon                       @2.9            games/bluemoon
+bomberclone                    @0.11.8         games/bomberclone
+boswars                        @2.5            games/boswars
+bs                             @2.7            games/bs
+bzflag                         @2.0.16         games/bzflag
+cannonsmash                    @0.6.6          games/cannonsmash
+cheops                         @1.1            games/cheops
+chromium                       @0.9.12         games/chromium
+circuslinux                    @1.0.3          games/circuslinux
+cmatrix                        @1.2a           games/cmatrix
+crack-attack                   @1.1.14         games/crack-attack
+crafty                         @20.14          games/crafty
+criticalmass                   @1.0.2          games/criticalmass
+ctris                          @0.42           games/ctris
+cursive                        @1.0            games/cursive
+defendguin                     @0.0.11         games/defendguin
+digger                         @20020314       games/digger
+dominion                       @2.8.2          games/dominion
+dopewars                       @1.5.12         games/dopewars
+duke3d                         @0.1            games/duke3d
+dvorakng                       @0.6.0rc1       games/dvorakng
+eboard                         @1.1.1          games/eboard
+euchre                         @0.7c           games/euchre
+fbg                            @0.9            games/fbg
+fife                           @0.3.1          games/fife
+fizmo                          @0.6.8          games/fizmo
+flobopuyo                      @0.20           games/flobopuyo
+fortune                        @6.2.0-RELEASE  games/fortune
+freeciv                        @2.2.3          games/freeciv
+freeciv-x11                    @2.2.3          games/freeciv-x11
+freedink                       @1.08.20090120  games/freedink
+freedink-data                  @1.08.20081130  games/freedink-data
+freedroidclassic               @1.0.2          games/freedroidclassic
+frobtads                       @0.13           games/frobtads
+frotz                          @2.43           games/frotz
+frozenbubble2                  @2.2.0          games/frozenbubble2
+galaxis                        @1.7            games/galaxis
+gav                            @0.9.0          games/gav
+gcs-java                       @2010.01.06     games/gcs-java
+geekcode                       @1.7.3          games/geekcode
+ggz-client-libs                @0.0.14.1       games/ggz-client-libs
+glob2                          @0.9.3          games/glob2
+glpong                         @1.3            games/glpong
+gnubg                          @0.14.3         games/gnubg
+gnuchess                       @5.07           games/gnuchess
+gnugo                          @3.8            games/gnugo
+gnushogi                       @1.3.2          games/gnushogi
+greed                          @3.6            games/greed
+gtetrinet                      @0.7.11         games/gtetrinet
+gtkevemon                      @99             games/gtkevemon
+gtypist                        @2.8.3          games/gtypist
+jnethack                       @3.4.3-0.10     games/jnethack
+kanatest                       @0.4.8          games/kanatest
+klavaro                        @1.1.7          games/klavaro
+larn                           @12             games/larn
+lbreakout2                     @2.6beta-7      games/lbreakout2
+ldmud                          @3.3.719        games/ldmud
+lgeneral                       @1.1.1          games/lgeneral
+libggz                         @0.0.14.1       games/libggz
+lincity                        @1.13.0         games/lincity
+lincity-ng                     @2.0            games/lincity-ng
+liquidwar                      @5.6.4          games/liquidwar
+lmarbles                       @1.0.7          games/lmarbles
+lpairs                         @1.0            games/lpairs
+ltris                          @1.0.12         games/ltris
+mindless                       @1.5            games/mindless
+moria                          @5.5.2          games/moria
+mystonline-bootstrap           @2010           games/mystonline-bootstrap
+mystonline-cider               @2010           games/mystonline-cider
+mystonline-wine                @2010           games/mystonline-wine
+nethack                        @3.4.3          games/nethack
+netpanzer                      @0.8.2          games/netpanzer
+netris                         @0.52           games/netris
+neverball                      @1.4.0          games/neverball
+nwntools                       @2.3.2          games/nwntools
+oilwar                         @1.2.1          games/oilwar
+openmortal                     @0.7            games/openmortal
+othello                        @0.03           games/othello
+pennmush                       @1.8.3p9        games/pennmush
+pioneers                       @0.12.3.1       games/pioneers
+poker-eval                     @136.0          games/poker-eval
+pyfa                           @0.9            games/pyfa
+qstat                          @2.11           games/qstat
+qthello                        @1.0            games/qthello
+raceintospace                  @0.4.5          games/raceintospace
+robotfindskitten               @1.4142135.349  games/robotfindskitten
+rocksndiamonds                 @3.3.0.1        games/rocksndiamonds
+rogue                          @5.4.4          games/rogue
+roll                           @1.1.4          games/roll
+rrgbis                         @1.12           games/rrgbis
+scare                          @1.3.10         games/scare
+sdl_sopwith                    @1.7.1          games/sdl_sopwith
+ship84                         @1.3.3.7        games/ship84
+simutrans                      @99-17-1        games/simutrans
+ski                            @6.5            games/ski
+sl                             @1.0.0          games/sl
+snoopy                         @2.9.95         games/snoopy
+sounddecompress                @1.11           games/sounddecompress
+spacehulk                      @1.5-beta1      games/spacehulk
+starfighter                    @1.1-1          games/starfighter
+supertux                       @0.1.3          games/supertux
+supertuxkart                   @0.4            games/supertuxkart
+svinepalsen                    @0.2.1          games/svinepalsen
+teg                            @0.11.2         games/teg
+toppler                        @1.1.1          games/toppler
+tuxmath                        @1.7.1          games/tuxmath
+tuxtype                        @1.7.4          games/tuxtype
+vectoroids                     @1.1.0          games/vectoroids
+vms-empire                     @1.7            games/vms-empire
+wesnoth                        @1.8.5          games/wesnoth
+wordplay                       @7.22           games/wordplay
+wtf                            @20080926       games/wtf
+wump                           @4.6.2-RELEASE  games/wump
+wumpus                         @1.3            games/wumpus
+xbill                          @2.1            games/xbill
+xboard                         @4.4.3          games/xboard
+xgalaga                        @2.1.1.0        games/xgalaga
+xjump                          @2.7.5          games/xjump
+xmahjongg                      @3.7            games/xmahjongg
+xmj                            @1.10           games/xmj
+xmoto                          @0.5.2          games/xmoto
+xqf                            @1.0.5          games/xqf
+xscorch                        @0.1.15         games/xscorch
+xskat                          @4.0            games/xskat
+xtet42                         @2.21           games/xtet42
+
+** Adventure Games
