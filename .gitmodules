@@ -1,3 +1,6 @@
 [submodule "lib/sprite.js"]
 	path = lib/sprite.js
 	url = https://github.com/batiste/sprite.js.git
+[submodule "lib/simple_pusher"]
+	path = lib/simple_pusher
+	url = https://github.com/redsquirrel/simple_pusher.git
